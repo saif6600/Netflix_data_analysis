@@ -1,26 +1,24 @@
 # 📊 Netflix Data Analysis Project
 
-An exploratory data analysis (EDA) project using Netflix's dataset to uncover insights about the platform's content, trends, and patterns over time.
+An exploratory data analysis (EDA) project using a Netflix-based dataset to uncover insights about content trends, popularity, and genre patterns over time.
 
 ---
 
 ## 🔍 Project Overview
 
-This project involves cleaning, exploring, and visualizing Netflix's movie and TV show data. The analysis aims to answer questions like:
+This project involves cleaning, exploring, and visualizing movie and TV show data. The analysis aims to answer key questions such as:
 
--What is the most frequent genre of movies released on Netflix?
--Which has highest votes in vote avg column?
--What movie got the highest popularity? what's its genre?
--What movie got the lowest popularity? what's its genre?
--Which year has the most filmmed movies?
-
-
+- What is the most frequent genre of movies released on Netflix?
+- Which genre has the highest vote average?
+- What movie has the highest popularity, and what are its genres?
+- What movie has the lowest popularity, and what are its genres?
+- Which year saw the highest number of movies filmed?
 
 ---
 
 ## 📁 Dataset
 
-- **Files**: `mymoviesdb.csv`
+- **File Used**: `mymoviesdb.csv`
 
 ---
 
@@ -38,8 +36,8 @@ This project involves cleaning, exploring, and visualizing Netflix's movie and T
 
 - Data cleaning (handling missing values, formatting dates, etc.)
 - Exploratory data analysis (EDA)
-- Interactive visualizations
-- Insights and summary reports
+- Visualizations using Matplotlib and Seaborn
+- Insight generation based on popularity, votes, and genres
 
 ---
 
@@ -47,32 +45,34 @@ This project involves cleaning, exploring, and visualizing Netflix's movie and T
 
 Some of the key visualizations include:
 
-- Number of titles added each year
-- Top countries producing content
-- Word clouds for title descriptions
-- Content rating distribution
-- Most common genres
-
+- Number of movies released per year
+- Most popular genres by frequency and votes
+- Highest and lowest popularity movies
+- Genre distribution using pie charts and bar graphs
 
 ---
-## Conculsion
-Q1: What is the most frequent genre in the dataset?
----Drama genre is the most frequent genre in our dataset and has appeared more than 14% of the times among 19 other genres.
 
-Q2: What genres has highest votes?
-We have 25.5% of our dataset with popular vote (6520 rows). Drama again gets the highest popularity among fans by being having more than 18.5% of movies popularities.
+## ✅ Conclusion
 
-Q3: What movie got the highest popularity? what's its genre?
-Spider-Man: No Way Home has the highest popularity rate in our dataset and it has genres of Action, Adventure and Science Fiction.
+**Q1: What is the most frequent genre in the dataset?**  
+➡️ *Drama* is the most frequent genre in the dataset, appearing in over **14%** of the entries among 19 other genres.
 
-Q3: What movie got the lowest popularity? what's its genre?
-The united states, thread' has the highest lowest rate in our dataset and it has genres of music, drama, 'war', 'sci-fi', and history.
+**Q2: Which genre has the highest votes?**  
+➡️ With over **25.5%** of movies receiving votes, *Drama* again leads with more than **18.5%** of the most-voted movies.
 
-Q4: Which year has the most filmed movies?
-Year 2020 has the highest filmmaking rate in our dataset.
+**Q3: What movie got the highest popularity and what are its genres?**  
+➡️ *Spider-Man: No Way Home* has the highest popularity in the dataset, categorized under **Action**, **Adventure**, and **Science Fiction**.
+
+**Q4: What movie got the lowest popularity and what are its genres?**  
+➡️ *The United States, Thread* has the lowest popularity and belongs to **Music**, **Drama**, **War**, **Sci-Fi**, and **History** genres.
+
+**Q5: Which year has the most filmed movies?**  
+➡️ The year **2020** recorded the highest number of movies filmed in the dataset.
+
+---
 
 ## 🧪 How to Run the Project
 
-1. Clone this repo:
+1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/Netflix_data_analysis.git
