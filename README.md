@@ -20,8 +20,7 @@ This project involves cleaning, exploring, and visualizing Netflix's movie and T
 
 ## 📁 Dataset
 
-- **Source**: [Netflix Dataset on Kaggle](https://www.kaggle.com/shivamb/netflix-shows)
-- **Files**: `netflix_titles.csv`
+- **Files**: `mymoviesdb.csv`
 
 ---
 
