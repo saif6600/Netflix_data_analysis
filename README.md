@@ -57,7 +57,7 @@ Some of the key visualizations include:
 ---
 ## Conculsion
 Q1: What is the most frequent genre in the dataset?
-Drama genre is the most frequent genre in our dataset and has appeared more than 14% of the times among 19 other genres.
+---Drama genre is the most frequent genre in our dataset and has appeared more than 14% of the times among 19 other genres.
 
 Q2: What genres has highest votes?
 We have 25.5% of our dataset with popular vote (6520 rows). Drama again gets the highest popularity among fans by being having more than 18.5% of movies popularities.
