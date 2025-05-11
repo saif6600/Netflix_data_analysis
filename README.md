@@ -59,4 +59,4 @@ Some of the key visualizations include:
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/netflix-data-analysis.git
+   git clone https://github.com/your-username/Netflix_data_analysis.git
