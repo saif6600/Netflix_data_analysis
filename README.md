@@ -27,6 +27,7 @@ This project involves cleaning, exploring, and visualizing movie and TV show dat
 - Python 🐍
 - Pandas
 - NumPy
+- Seaborn
 - Matplotlib & Seaborn
 - Jupyter Notebook
 
